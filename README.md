@@ -5,19 +5,19 @@ layout: page
 ---
 
 
-<div style="text-align: center;">
+<figure style="text-align: center;">
   <img src="/assets/images/vball.jpeg" alt="HHM">
-  <p><strong>Senior Men's Volleyball Team @ HHM</strong></p>
-</div>
+  <figcaption><strong>Senior Men's Volleyball Team @ HHM</strong></figcaption>
+</figure>
 
 
-<div style="text-align: center;">
+<figure style="text-align: center;">
   <img src="/assets/images/ski.jpeg" alt="Ski">
-  <p><strong>First Ski trip to White Hills with James and Sebastion</strong></p>
-</div>
+  <figcaption><strong>First Ski trip to White Hills with James and Sebastion</strong></figcaption>
+</figure>
 
 
-<div style="text-align: center;">
+<figure style="text-align: center;">
   <img src="/assets/images/charlie.jpeg" alt="Cat">
-  <p><strong>This is Charlie!</strong></p>
-</div>
+  <figcaption><strong>This is Charlie!</strong></figcaption>
+</figure>
